@@ -1,0 +1,510 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<?fr-application created="FastReport"?>
+<?fr-application homesite="http://www.fast-report.com"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns:html="http://www.w3.org/TR/REC-html40">
+<DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+<Title></Title>
+<Author></Author>
+<Created>29/12/2020 00:00:00T09:36:53.3996430Z</Created>
+<Version></Version>
+</DocumentProperties>
+<ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+<ProtectStructure>False</ProtectStructure>
+<ProtectWindows>False</ProtectWindows>
+</ExcelWorkbook>
+<Styles>
+<Style ss:ID="s0">
+<Font ss:FontName="Tahoma" ss:Size="8" ss:Color="#FFFFFF" />
+
+<Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1" />
+<Borders>
+</Borders>
+</Style>
+<Style ss:ID="s1">
+<Font ss:FontName="Arial" ss:Size="16" ss:Color="#000000" ss:Bold="1" />
+
+<Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1" />
+<Borders>
+</Borders>
+</Style>
+<Style ss:ID="s2">
+<Font ss:FontName="Arial" ss:Size="8" ss:Color="#000000" ss:Bold="1" />
+
+<Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1" />
+<Borders>
+</Borders>
+</Style>
+<Style ss:ID="s3">
+<Font ss:FontName="Arial" ss:Size="7" ss:Color="#0000FF" ss:Bold="1" />
+
+<Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1" />
+<Borders>
+</Borders>
+</Style>
+<Style ss:ID="s4">
+<Font ss:FontName="Arial" ss:Size="8" ss:Color="#000000" ss:Bold="1" />
+
+<Alignment ss:Horizontal="Right" ss:Vertical="Top" ss:WrapText="1" />
+<Borders>
+</Borders>
+<NumberFormat ss:Format="Fixed"/>
+</Style>
+<Style ss:ID="s5">
+<Font ss:FontName="Arial" ss:Size="7" ss:Color="#000000" ss:Bold="1" />
+
+<Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1" />
+<Borders>
+</Borders>
+</Style>
+<Style ss:ID="s6">
+<Font ss:FontName="Arial" ss:Size="7" ss:Color="#000000" ss:Bold="1" />
+
+<Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1" />
+<Borders>
+</Borders>
+</Style>
+<Style ss:ID="s7">
+<Font ss:FontName="Arial" ss:Size="7" ss:Color="#000000" ss:Bold="1" />
+
+<Alignment ss:Horizontal="Right" ss:Vertical="Top" ss:WrapText="1" />
+<Borders>
+</Borders>
+</Style>
+<Style ss:ID="s8">
+<Font ss:FontName="Arial" ss:Size="7" ss:Color="#000000" />
+
+<Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1" />
+<Borders>
+</Borders>
+</Style>
+<Style ss:ID="s9">
+<Font ss:FontName="Arial" ss:Size="7" ss:Color="#000000" />
+
+<Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1" />
+<Borders>
+</Borders>
+</Style>
+<Style ss:ID="s10">
+<Font ss:FontName="Arial" ss:Size="7" ss:Color="#000000" />
+
+<Alignment ss:Horizontal="Right" ss:Vertical="Top" ss:WrapText="1" />
+<Borders>
+</Borders>
+<NumberFormat ss:Format="Fixed"/>
+</Style>
+<Style ss:ID="s11">
+<Font ss:FontName="Arial" ss:Size="7" ss:Color="#000000" />
+
+<Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1" />
+<Borders>
+</Borders>
+<NumberFormat ss:Format="Fixed"/>
+</Style>
+<Style ss:ID="s12">
+<Font ss:FontName="Arial" ss:Size="7" ss:Color="#000000" />
+
+<Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1" />
+<Borders>
+</Borders>
+</Style>
+<Style ss:ID="s13">
+<Font ss:FontName="Arial" ss:Size="8" ss:Color="#000000" ss:Bold="1" />
+
+<Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1" />
+<Borders>
+</Borders>
+<NumberFormat ss:Format="Fixed"/>
+</Style>
+<Style ss:ID="s14">
+<Font ss:FontName="Arial" ss:Size="8" ss:Color="#000000" ss:Bold="1" />
+
+<Alignment ss:Horizontal="Right" ss:Vertical="Top" ss:WrapText="1" />
+<Borders>
+</Borders>
+</Style>
+<Style ss:ID="s15">
+<Font ss:FontName="Arial" ss:Size="8" ss:Color="#000000" ss:Bold="1" />
+
+<Alignment ss:Horizontal="Right" ss:Vertical="Top" ss:WrapText="1" />
+<Borders>
+</Borders>
+</Style>
+<Style ss:ID="s16">
+<Font ss:FontName="Arial" ss:Size="1" ss:Color="#FFFFFF" />
+
+<Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1" />
+<Borders>
+<Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000"/>
+</Borders>
+</Style>
+</Styles>
+<Worksheet ss:Name="Page 1">
+<Table ss:ExpandedColumnCount="30" ss:ExpandedRowCount="41" x:FullColumns="1" x:FullRows="1">
+<Column ss:AutoFitWidth="0" ss:Width="34.34"/>
+<Column ss:AutoFitWidth="0" ss:Width="6.87"/>
+<Column ss:AutoFitWidth="0" ss:Width="41.21"/>
+<Column ss:AutoFitWidth="0" ss:Width="20.6"/>
+<Column ss:AutoFitWidth="0" ss:Width="6.87"/>
+<Column ss:AutoFitWidth="0" ss:Width="20.6"/>
+<Column ss:AutoFitWidth="0" ss:Width="20.6"/>
+<Column ss:AutoFitWidth="0" ss:Width="13.74"/>
+<Column ss:AutoFitWidth="0" ss:Width="41.21"/>
+<Column ss:AutoFitWidth="0" ss:Width="13.74"/>
+<Column ss:AutoFitWidth="0" ss:Width="6.87"/>
+<Column ss:AutoFitWidth="0" ss:Width="6.87"/>
+<Column ss:AutoFitWidth="0" ss:Width="82.41"/>
+<Column ss:AutoFitWidth="0" ss:Width="68.68"/>
+<Column ss:AutoFitWidth="0" ss:Width="13.74"/>
+<Column ss:AutoFitWidth="0" ss:Width="75.55"/>
+<Column ss:AutoFitWidth="0" ss:Width="68.68"/>
+<Column ss:AutoFitWidth="0" ss:Width="20.6"/>
+<Column ss:AutoFitWidth="0" ss:Width="13.74"/>
+<Column ss:AutoFitWidth="0" ss:Width="13.74"/>
+<Column ss:AutoFitWidth="0" ss:Width="41.21"/>
+<Column ss:AutoFitWidth="0" ss:Width="20.6"/>
+<Column ss:AutoFitWidth="0" ss:Width="6.87"/>
+<Column ss:AutoFitWidth="0" ss:Width="6.87"/>
+<Column ss:AutoFitWidth="0" ss:Width="6.87"/>
+<Column ss:AutoFitWidth="0" ss:Width="20.6"/>
+<Column ss:AutoFitWidth="0" ss:Width="34.34"/>
+<Column ss:AutoFitWidth="0" ss:Width="13.74"/>
+<Column ss:AutoFitWidth="0" ss:Width="19.23"/>
+<Row ss:Height="6.87">
+<Cell ss:Index="1" ss:MergeAcross="8" ss:MergeDown="3" ss:StyleID="s0">
+<Data ss:Type="String"></Data></Cell><Cell ss:Index="10" ss:MergeAcross="9" ss:MergeDown="2" ss:StyleID="s1">
+<Data ss:Type="String">RELATÓRIO DE CONCILIAÇÃO BANCÁRIA</Data></Cell><Cell ss:Index="20" ss:MergeAcross="9" ss:StyleID="s0">
+<Data ss:Type="String"></Data></Cell><Cell ss:Index="30"/></Row>
+<Row ss:Height="13.74">
+<Cell ss:Index="20" ss:MergeAcross="4" ss:MergeDown="4" ss:StyleID="s0">
+<Data ss:Type="String"></Data></Cell><Cell ss:Index="25" ss:MergeAcross="4" ss:StyleID="s2">
+<Data ss:Type="String">Pagina 1 de 1</Data></Cell><Cell ss:Index="30"/></Row>
+<Row ss:Height="6.87">
+<Cell ss:Index="25" ss:MergeAcross="4" ss:MergeDown="3" ss:StyleID="s0">
+<Data ss:Type="String"></Data></Cell><Cell ss:Index="30"/></Row>
+<Row ss:Height="20.6">
+<Cell ss:Index="10" ss:MergeAcross="9" ss:StyleID="s0">
+<Data ss:Type="String"></Data></Cell><Cell ss:Index="30"/></Row>
+<Row ss:Height="6.87">
+<Cell ss:Index="1" ss:MergeAcross="1" ss:StyleID="s3">
+<Data ss:Type="String">Empresa:</Data></Cell><Cell ss:Index="3" ss:MergeAcross="12" ss:StyleID="s3">
+<Data ss:Type="String">                                                            </Data></Cell><Cell ss:Index="16" ss:MergeAcross="3" ss:MergeDown="3" ss:StyleID="s0">
+<Data ss:Type="String"></Data></Cell><Cell ss:Index="30"/></Row>
+<Row ss:Height="6.87">
+<Cell ss:Index="1" ss:StyleID="s3">
+<Data ss:Type="String">Banco:</Data></Cell><Cell ss:Index="2" ss:StyleID="s0">
+<Data ss:Type="String"></Data></Cell><Cell ss:Index="3" ss:MergeAcross="8" ss:StyleID="s3">
+<Data ss:Type="String">Santander</Data></Cell><Cell ss:Index="12" ss:MergeAcross="3" ss:MergeDown="2" ss:StyleID="s0">
+<Data ss:Type="String"></Data></Cell><Cell ss:Index="30"/></Row>
+<Row ss:Height="6.87">
+<Cell ss:Index="1" ss:MergeAcross="1" ss:StyleID="s3">
+<Data ss:Type="String">Agencia:</Data></Cell><Cell ss:Index="3" ss:StyleID="s3">
+<Data ss:Type="String">04515</Data></Cell><Cell ss:Index="4" ss:MergeAcross="2" ss:StyleID="s3">
+<Data ss:Type="String">C/C:</Data></Cell><Cell ss:Index="7" ss:MergeAcross="1" ss:StyleID="s3">
+<Data ss:Type="String">130048407      </Data></Cell><Cell ss:Index="9" ss:MergeAcross="2" ss:MergeDown="1" ss:StyleID="s0">
+<Data ss:Type="String"></Data></Cell><Cell ss:Index="20" ss:MergeDown="1" ss:StyleID="s0">
+<Data ss:Type="String"></Data></Cell><Cell ss:Index="21" ss:MergeAcross="2" ss:MergeDown="1" ss:StyleID="s2">
+<Data ss:Type="String">Saldo Anterior:</Data></Cell><Cell ss:Index="24" ss:MergeAcross="3" ss:MergeDown="1" ss:StyleID="s4">
+<Data ss:Type="Number">0.00</Data></Cell><Cell ss:Index="28" ss:MergeAcross="1" ss:MergeDown="1" ss:StyleID="s0">
+<Data ss:Type="String"></Data></Cell><Cell ss:Index="30"/></Row>
+<Row ss:Height="6.87">
+<Cell ss:Index="1" ss:MergeAcross="7" ss:StyleID="s0">
+<Data ss:Type="String"></Data></Cell><Cell ss:Index="30"/></Row>
+<Row ss:Height="13.74">
+<Cell ss:Index="1" ss:StyleID="s5">
+<Data ss:Type="String">Data</Data></Cell><Cell ss:Index="2" ss:StyleID="s0">
+<Data ss:Type="String"></Data></Cell><Cell ss:Index="3" ss:MergeAcross="2" ss:StyleID="s5">
+<Data ss:Type="String">Empresa</Data></Cell><Cell ss:Index="6" ss:MergeAcross="1" ss:StyleID="s0">
+<Data ss:Type="String"></Data></Cell><Cell ss:Index="8" ss:MergeAcross="2" ss:StyleID="s5">
+<Data ss:Type="String">Conta Financeira</Data></Cell><Cell ss:Index="11" ss:MergeAcross="2" ss:StyleID="s0">
+<Data ss:Type="String"></Data></Cell><Cell ss:Index="14" ss:StyleID="s5">
+<Data ss:Type="String">Historico</Data></Cell><Cell ss:Index="15" ss:MergeAcross="2" ss:StyleID="s0">
+<Data ss:Type="String"></Data></Cell><Cell ss:Index="18" ss:MergeAcross="2" ss:StyleID="s6">
+<Data ss:Type="String">Nota Fiscal</Data></Cell><Cell ss:Index="21" ss:StyleID="s6">
+<Data ss:Type="String">Lancto</Data></Cell><Cell ss:Index="22" ss:MergeAcross="4" ss:StyleID="s7">
+<Data ss:Type="String">Entrada</Data></Cell><Cell ss:Index="27" ss:MergeAcross="2" ss:StyleID="s7">
+<Data ss:Type="String">Saída</Data></Cell><Cell ss:Index="30"/></Row>
+<Row ss:Height="13.74">
+<Cell ss:Index="1" ss:MergeAcross="1" ss:StyleID="s8">
+<Data ss:Type="String">01/06/2020</Data></Cell><Cell ss:Index="3" ss:MergeAcross="4" ss:StyleID="s12">
+<Data ss:Type="String">                    </Data></Cell><Cell ss:Index="8" ss:MergeAcross="5" ss:StyleID="s12">
+<Data ss:Type="String">TRANSFERENCIAS ENTRE CONTAS             </Data></Cell><Cell ss:Index="14" ss:MergeAcross="3" ss:StyleID="s12">
+<Data ss:Type="String">TRANSFERENCIA SAIDA BANCÁRIA            </Data></Cell><Cell ss:Index="18" ss:MergeAcross="2" ss:StyleID="s11">
+<Data ss:Type="Number">0</Data></Cell><Cell ss:Index="21" ss:StyleID="s9">
+<Data ss:Type="String">26756</Data></Cell><Cell ss:Index="22" ss:MergeAcross="4" ss:StyleID="s10">
+<Data ss:Type="Number">0.00</Data></Cell><Cell ss:Index="27" ss:MergeAcross="2" ss:StyleID="s10">
+<Data ss:Type="Number">-302355.51</Data></Cell><Cell ss:Index="30"/></Row>
+<Row ss:Height="13.74">
+<Cell ss:Index="1" ss:MergeAcross="1" ss:StyleID="s8">
+<Data ss:Type="String">01/06/2020</Data></Cell><Cell ss:Index="3" ss:MergeAcross="4" ss:StyleID="s12">
+<Data ss:Type="String">                    </Data></Cell><Cell ss:Index="8" ss:MergeAcross="5" ss:StyleID="s12">
+<Data ss:Type="String">SERVIÇOS PROFISSIONAIS E CONTRATADOS - D</Data></Cell><Cell ss:Index="14" ss:MergeAcross="3" ss:StyleID="s12">
+<Data ss:Type="String">PAGAMENTO NOTAS FISCAIS                 </Data></Cell><Cell ss:Index="18" ss:MergeAcross="2" ss:StyleID="s11">
+<Data ss:Type="Number">84873</Data></Cell><Cell ss:Index="21" ss:StyleID="s9">
+<Data ss:Type="String">26749</Data></Cell><Cell ss:Index="22" ss:MergeAcross="4" ss:StyleID="s10">
+<Data ss:Type="Number">0.00</Data></Cell><Cell ss:Index="27" ss:MergeAcross="2" ss:StyleID="s10">
+<Data ss:Type="Number">-500.90</Data></Cell><Cell ss:Index="30"/></Row>
+<Row ss:Height="13.74">
+<Cell ss:Index="1" ss:MergeAcross="1" ss:StyleID="s8">
+<Data ss:Type="String">01/06/2020</Data></Cell><Cell ss:Index="3" ss:MergeAcross="4" ss:StyleID="s12">
+<Data ss:Type="String">                    </Data></Cell><Cell ss:Index="8" ss:MergeAcross="5" ss:StyleID="s12">
+<Data ss:Type="String">SERVIÇOS PROFISSIONAIS E CONTRATADOS - D</Data></Cell><Cell ss:Index="14" ss:MergeAcross="3" ss:StyleID="s12">
+<Data ss:Type="String">SAÍDA DOCUMENTOS NÃO FISCAIS            </Data></Cell><Cell ss:Index="18" ss:MergeAcross="2" ss:StyleID="s11">
+<Data ss:Type="Number">872</Data></Cell><Cell ss:Index="21" ss:StyleID="s9">
+<Data ss:Type="String">26750</Data></Cell><Cell ss:Index="22" ss:MergeAcross="4" ss:StyleID="s10">
+<Data ss:Type="Number">0.00</Data></Cell><Cell ss:Index="27" ss:MergeAcross="2" ss:StyleID="s10">
+<Data ss:Type="Number">-2500.00</Data></Cell><Cell ss:Index="30"/></Row>
+<Row ss:Height="13.74">
+<Cell ss:Index="1" ss:MergeAcross="1" ss:StyleID="s8">
+<Data ss:Type="String">01/06/2020</Data></Cell><Cell ss:Index="3" ss:MergeAcross="4" ss:StyleID="s12">
+<Data ss:Type="String">                    </Data></Cell><Cell ss:Index="8" ss:MergeAcross="5" ss:StyleID="s12">
+<Data ss:Type="String">TARIFAS BANCÁRIAS                       </Data></Cell><Cell ss:Index="14" ss:MergeAcross="3" ss:StyleID="s12">
+<Data ss:Type="String">SAÍDA DOCUMENTOS NÃO FISCAIS            </Data></Cell><Cell ss:Index="18" ss:MergeAcross="2" ss:StyleID="s11">
+<Data ss:Type="Number">0</Data></Cell><Cell ss:Index="21" ss:StyleID="s9">
+<Data ss:Type="String">26723</Data></Cell><Cell ss:Index="22" ss:MergeAcross="4" ss:StyleID="s10">
+<Data ss:Type="Number">0.00</Data></Cell><Cell ss:Index="27" ss:MergeAcross="2" ss:StyleID="s10">
+<Data ss:Type="Number">-12.00</Data></Cell><Cell ss:Index="30"/></Row>
+<Row ss:Height="13.74">
+<Cell ss:Index="1" ss:MergeAcross="1" ss:StyleID="s8">
+<Data ss:Type="String">01/06/2020</Data></Cell><Cell ss:Index="3" ss:MergeAcross="4" ss:StyleID="s12">
+<Data ss:Type="String">                    </Data></Cell><Cell ss:Index="8" ss:MergeAcross="5" ss:StyleID="s12">
+<Data ss:Type="String">MATERIAIS DE USO E CONSUMO              </Data></Cell><Cell ss:Index="14" ss:MergeAcross="3" ss:StyleID="s12">
+<Data ss:Type="String">PAGAMENTO NOTAS FISCAIS                 </Data></Cell><Cell ss:Index="18" ss:MergeAcross="2" ss:StyleID="s11">
+<Data ss:Type="Number">11938</Data></Cell><Cell ss:Index="21" ss:StyleID="s9">
+<Data ss:Type="String">26747</Data></Cell><Cell ss:Index="22" ss:MergeAcross="4" ss:StyleID="s10">
+<Data ss:Type="Number">0.00</Data></Cell><Cell ss:Index="27" ss:MergeAcross="2" ss:StyleID="s10">
+<Data ss:Type="Number">-227.00</Data></Cell><Cell ss:Index="30"/></Row>
+<Row ss:Height="13.74">
+<Cell ss:Index="1" ss:MergeAcross="1" ss:StyleID="s8">
+<Data ss:Type="String">01/06/2020</Data></Cell><Cell ss:Index="3" ss:MergeAcross="4" ss:StyleID="s12">
+<Data ss:Type="String">AHGORA              </Data></Cell><Cell ss:Index="8" ss:MergeAcross="5" ss:StyleID="s12">
+<Data ss:Type="String">LICENÇA DE SOFTWARE                     </Data></Cell><Cell ss:Index="14" ss:MergeAcross="3" ss:StyleID="s12">
+<Data ss:Type="String">PAGAMENTO NOTAS FISCAIS                 </Data></Cell><Cell ss:Index="18" ss:MergeAcross="2" ss:StyleID="s11">
+<Data ss:Type="Number">164952</Data></Cell><Cell ss:Index="21" ss:StyleID="s9">
+<Data ss:Type="String">26748</Data></Cell><Cell ss:Index="22" ss:MergeAcross="4" ss:StyleID="s10">
+<Data ss:Type="Number">0.00</Data></Cell><Cell ss:Index="27" ss:MergeAcross="2" ss:StyleID="s10">
+<Data ss:Type="Number">-2671.43</Data></Cell><Cell ss:Index="30"/></Row>
+<Row ss:Height="13.74">
+<Cell ss:Index="1" ss:MergeAcross="1" ss:StyleID="s8">
+<Data ss:Type="String">01/06/2020</Data></Cell><Cell ss:Index="3" ss:MergeAcross="4" ss:StyleID="s12">
+<Data ss:Type="String">HAPVIDA             </Data></Cell><Cell ss:Index="8" ss:MergeAcross="5" ss:StyleID="s12">
+<Data ss:Type="String">PLANO DE SAUDE                          </Data></Cell><Cell ss:Index="14" ss:MergeAcross="3" ss:StyleID="s12">
+<Data ss:Type="String">PAGAMENTO NOTAS FISCAIS                 </Data></Cell><Cell ss:Index="18" ss:MergeAcross="2" ss:StyleID="s11">
+<Data ss:Type="Number">21791648</Data></Cell><Cell ss:Index="21" ss:StyleID="s9">
+<Data ss:Type="String">26751</Data></Cell><Cell ss:Index="22" ss:MergeAcross="4" ss:StyleID="s10">
+<Data ss:Type="Number">0.00</Data></Cell><Cell ss:Index="27" ss:MergeAcross="2" ss:StyleID="s10">
+<Data ss:Type="Number">-25459.49</Data></Cell><Cell ss:Index="30"/></Row>
+<Row ss:Height="13.74">
+<Cell ss:Index="1" ss:MergeAcross="1" ss:StyleID="s8">
+<Data ss:Type="String">01/06/2020</Data></Cell><Cell ss:Index="3" ss:MergeAcross="4" ss:StyleID="s12">
+<Data ss:Type="String">IBAMA               </Data></Cell><Cell ss:Index="8" ss:MergeAcross="5" ss:StyleID="s12">
+<Data ss:Type="String">VENDA DE SERVICOS                       </Data></Cell><Cell ss:Index="14" ss:MergeAcross="3" ss:StyleID="s12">
+<Data ss:Type="String">ENTRADA                                 </Data></Cell><Cell ss:Index="18" ss:MergeAcross="2" ss:StyleID="s11">
+<Data ss:Type="Number">2834</Data></Cell><Cell ss:Index="21" ss:StyleID="s9">
+<Data ss:Type="String">26320</Data></Cell><Cell ss:Index="22" ss:MergeAcross="4" ss:StyleID="s10">
+<Data ss:Type="Number">3272.99</Data></Cell><Cell ss:Index="27" ss:MergeAcross="2" ss:StyleID="s10">
+<Data ss:Type="Number">0.00</Data></Cell><Cell ss:Index="30"/></Row>
+<Row ss:Height="13.74">
+<Cell ss:Index="1" ss:MergeAcross="1" ss:StyleID="s8">
+<Data ss:Type="String">01/06/2020</Data></Cell><Cell ss:Index="3" ss:MergeAcross="4" ss:StyleID="s12">
+<Data ss:Type="String">ICMBIO - SEDE       </Data></Cell><Cell ss:Index="8" ss:MergeAcross="5" ss:StyleID="s12">
+<Data ss:Type="String">VENDA DE SERVICOS                       </Data></Cell><Cell ss:Index="14" ss:MergeAcross="3" ss:StyleID="s12">
+<Data ss:Type="String">ENTRADA                                 </Data></Cell><Cell ss:Index="18" ss:MergeAcross="2" ss:StyleID="s11">
+<Data ss:Type="Number">2496</Data></Cell><Cell ss:Index="21" ss:StyleID="s9">
+<Data ss:Type="String">26404</Data></Cell><Cell ss:Index="22" ss:MergeAcross="4" ss:StyleID="s10">
+<Data ss:Type="Number">5145.99</Data></Cell><Cell ss:Index="27" ss:MergeAcross="2" ss:StyleID="s10">
+<Data ss:Type="Number">0.00</Data></Cell><Cell ss:Index="30"/></Row>
+<Row ss:Height="13.74">
+<Cell ss:Index="1" ss:MergeAcross="1" ss:StyleID="s8">
+<Data ss:Type="String">01/06/2020</Data></Cell><Cell ss:Index="3" ss:MergeAcross="4" ss:StyleID="s12">
+<Data ss:Type="String">ICMBIO - SEDE       </Data></Cell><Cell ss:Index="8" ss:MergeAcross="5" ss:StyleID="s12">
+<Data ss:Type="String">VENDA DE SERVICOS                       </Data></Cell><Cell ss:Index="14" ss:MergeAcross="3" ss:StyleID="s12">
+<Data ss:Type="String">ENTRADA                                 </Data></Cell><Cell ss:Index="18" ss:MergeAcross="2" ss:StyleID="s11">
+<Data ss:Type="Number">2613</Data></Cell><Cell ss:Index="21" ss:StyleID="s9">
+<Data ss:Type="String">26397</Data></Cell><Cell ss:Index="22" ss:MergeAcross="4" ss:StyleID="s10">
+<Data ss:Type="Number">5321.37</Data></Cell><Cell ss:Index="27" ss:MergeAcross="2" ss:StyleID="s10">
+<Data ss:Type="Number">0.00</Data></Cell><Cell ss:Index="30"/></Row>
+<Row ss:Height="13.74">
+<Cell ss:Index="1" ss:MergeAcross="1" ss:StyleID="s8">
+<Data ss:Type="String">01/06/2020</Data></Cell><Cell ss:Index="3" ss:MergeAcross="4" ss:StyleID="s12">
+<Data ss:Type="String">ICMBIO - SEDE       </Data></Cell><Cell ss:Index="8" ss:MergeAcross="5" ss:StyleID="s12">
+<Data ss:Type="String">VENDA DE SERVICOS                       </Data></Cell><Cell ss:Index="14" ss:MergeAcross="3" ss:StyleID="s12">
+<Data ss:Type="String">ENTRADA                                 </Data></Cell><Cell ss:Index="18" ss:MergeAcross="2" ss:StyleID="s11">
+<Data ss:Type="Number">2765</Data></Cell><Cell ss:Index="21" ss:StyleID="s9">
+<Data ss:Type="String">26401</Data></Cell><Cell ss:Index="22" ss:MergeAcross="4" ss:StyleID="s10">
+<Data ss:Type="Number">4557.45</Data></Cell><Cell ss:Index="27" ss:MergeAcross="2" ss:StyleID="s10">
+<Data ss:Type="Number">0.00</Data></Cell><Cell ss:Index="30"/></Row>
+<Row ss:Height="13.74">
+<Cell ss:Index="1" ss:MergeAcross="1" ss:StyleID="s8">
+<Data ss:Type="String">01/06/2020</Data></Cell><Cell ss:Index="3" ss:MergeAcross="4" ss:StyleID="s12">
+<Data ss:Type="String">MECON               </Data></Cell><Cell ss:Index="8" ss:MergeAcross="5" ss:StyleID="s12">
+<Data ss:Type="String">VENDA DE SERVICOS                       </Data></Cell><Cell ss:Index="14" ss:MergeAcross="3" ss:StyleID="s12">
+<Data ss:Type="String">ENTRADA                                 </Data></Cell><Cell ss:Index="18" ss:MergeAcross="2" ss:StyleID="s11">
+<Data ss:Type="Number">2813</Data></Cell><Cell ss:Index="21" ss:StyleID="s9">
+<Data ss:Type="String">26325</Data></Cell><Cell ss:Index="22" ss:MergeAcross="4" ss:StyleID="s10">
+<Data ss:Type="Number">104427.13</Data></Cell><Cell ss:Index="27" ss:MergeAcross="2" ss:StyleID="s10">
+<Data ss:Type="Number">0.00</Data></Cell><Cell ss:Index="30"/></Row>
+<Row ss:Height="13.74">
+<Cell ss:Index="1" ss:MergeAcross="1" ss:StyleID="s8">
+<Data ss:Type="String">01/06/2020</Data></Cell><Cell ss:Index="3" ss:MergeAcross="4" ss:StyleID="s12">
+<Data ss:Type="String">MTB                 </Data></Cell><Cell ss:Index="8" ss:MergeAcross="5" ss:StyleID="s12">
+<Data ss:Type="String">VENDA DE SERVICOS                       </Data></Cell><Cell ss:Index="14" ss:MergeAcross="3" ss:StyleID="s12">
+<Data ss:Type="String">ENTRADA                                 </Data></Cell><Cell ss:Index="18" ss:MergeAcross="2" ss:StyleID="s11">
+<Data ss:Type="Number">2794</Data></Cell><Cell ss:Index="21" ss:StyleID="s9">
+<Data ss:Type="String">26394</Data></Cell><Cell ss:Index="22" ss:MergeAcross="4" ss:StyleID="s10">
+<Data ss:Type="Number">45852.96</Data></Cell><Cell ss:Index="27" ss:MergeAcross="2" ss:StyleID="s10">
+<Data ss:Type="Number">0.00</Data></Cell><Cell ss:Index="30"/></Row>
+<Row ss:Height="13.74">
+<Cell ss:Index="1" ss:MergeAcross="1" ss:StyleID="s8">
+<Data ss:Type="String">01/06/2020</Data></Cell><Cell ss:Index="3" ss:MergeAcross="4" ss:StyleID="s12">
+<Data ss:Type="String">MTB                 </Data></Cell><Cell ss:Index="8" ss:MergeAcross="5" ss:StyleID="s12">
+<Data ss:Type="String">VENDA DE SERVICOS                       </Data></Cell><Cell ss:Index="14" ss:MergeAcross="3" ss:StyleID="s12">
+<Data ss:Type="String">ENTRADA                                 </Data></Cell><Cell ss:Index="18" ss:MergeAcross="2" ss:StyleID="s11">
+<Data ss:Type="Number">2793</Data></Cell><Cell ss:Index="21" ss:StyleID="s9">
+<Data ss:Type="String">26393</Data></Cell><Cell ss:Index="22" ss:MergeAcross="4" ss:StyleID="s10">
+<Data ss:Type="Number">124072.72</Data></Cell><Cell ss:Index="27" ss:MergeAcross="2" ss:StyleID="s10">
+<Data ss:Type="Number">0.00</Data></Cell><Cell ss:Index="30"/></Row>
+<Row ss:Height="13.74">
+<Cell ss:Index="1" ss:MergeAcross="1" ss:StyleID="s8">
+<Data ss:Type="String">01/06/2020</Data></Cell><Cell ss:Index="3" ss:MergeAcross="4" ss:StyleID="s12">
+<Data ss:Type="String">PREMIUM SAUDE       </Data></Cell><Cell ss:Index="8" ss:MergeAcross="5" ss:StyleID="s12">
+<Data ss:Type="String">PLANO DE SAUDE                          </Data></Cell><Cell ss:Index="14" ss:MergeAcross="3" ss:StyleID="s12">
+<Data ss:Type="String">PAGAMENTO NOTAS FISCAIS                 </Data></Cell><Cell ss:Index="18" ss:MergeAcross="2" ss:StyleID="s11">
+<Data ss:Type="Number">18658</Data></Cell><Cell ss:Index="21" ss:StyleID="s9">
+<Data ss:Type="String">26752</Data></Cell><Cell ss:Index="22" ss:MergeAcross="4" ss:StyleID="s10">
+<Data ss:Type="Number">0.00</Data></Cell><Cell ss:Index="27" ss:MergeAcross="2" ss:StyleID="s10">
+<Data ss:Type="Number">-16802.50</Data></Cell><Cell ss:Index="30"/></Row>
+<Row ss:Height="13.74">
+<Cell ss:Index="1" ss:MergeAcross="1" ss:StyleID="s8">
+<Data ss:Type="String">01/06/2020</Data></Cell><Cell ss:Index="3" ss:MergeAcross="4" ss:StyleID="s12">
+<Data ss:Type="String">SECURITY SISTEMAS DE</Data></Cell><Cell ss:Index="8" ss:MergeAcross="5" ss:StyleID="s12">
+<Data ss:Type="String">CRACHÁ                                  </Data></Cell><Cell ss:Index="14" ss:MergeAcross="3" ss:StyleID="s12">
+<Data ss:Type="String">PAGAMENTO NOTAS FISCAIS                 </Data></Cell><Cell ss:Index="18" ss:MergeAcross="2" ss:StyleID="s11">
+<Data ss:Type="Number">323</Data></Cell><Cell ss:Index="21" ss:StyleID="s9">
+<Data ss:Type="String">26753</Data></Cell><Cell ss:Index="22" ss:MergeAcross="4" ss:StyleID="s10">
+<Data ss:Type="Number">0.00</Data></Cell><Cell ss:Index="27" ss:MergeAcross="2" ss:StyleID="s10">
+<Data ss:Type="Number">-399.00</Data></Cell><Cell ss:Index="30"/></Row>
+<Row ss:Height="13.74">
+<Cell ss:Index="1" ss:MergeAcross="1" ss:StyleID="s8">
+<Data ss:Type="String">01/06/2020</Data></Cell><Cell ss:Index="3" ss:MergeAcross="4" ss:StyleID="s12">
+<Data ss:Type="String">SES PE              </Data></Cell><Cell ss:Index="8" ss:MergeAcross="5" ss:StyleID="s12">
+<Data ss:Type="String">VENDA DE SERVICOS                       </Data></Cell><Cell ss:Index="14" ss:MergeAcross="3" ss:StyleID="s12">
+<Data ss:Type="String">ENTRADA                                 </Data></Cell><Cell ss:Index="18" ss:MergeAcross="2" ss:StyleID="s11">
+<Data ss:Type="Number">2760</Data></Cell><Cell ss:Index="21" ss:StyleID="s9">
+<Data ss:Type="String">26422</Data></Cell><Cell ss:Index="22" ss:MergeAcross="4" ss:StyleID="s10">
+<Data ss:Type="Number">11446.49</Data></Cell><Cell ss:Index="27" ss:MergeAcross="2" ss:StyleID="s10">
+<Data ss:Type="Number">0.00</Data></Cell><Cell ss:Index="30"/></Row>
+<Row ss:Height="13.74">
+<Cell ss:Index="1" ss:MergeAcross="1" ss:StyleID="s8">
+<Data ss:Type="String">01/06/2020</Data></Cell><Cell ss:Index="3" ss:MergeAcross="4" ss:StyleID="s12">
+<Data ss:Type="String">SES PE              </Data></Cell><Cell ss:Index="8" ss:MergeAcross="5" ss:StyleID="s12">
+<Data ss:Type="String">VENDA DE SERVICOS                       </Data></Cell><Cell ss:Index="14" ss:MergeAcross="3" ss:StyleID="s12">
+<Data ss:Type="String">ENTRADA                                 </Data></Cell><Cell ss:Index="18" ss:MergeAcross="2" ss:StyleID="s11">
+<Data ss:Type="Number">2682</Data></Cell><Cell ss:Index="21" ss:StyleID="s9">
+<Data ss:Type="String">26419</Data></Cell><Cell ss:Index="22" ss:MergeAcross="4" ss:StyleID="s10">
+<Data ss:Type="Number">9318.89</Data></Cell><Cell ss:Index="27" ss:MergeAcross="2" ss:StyleID="s10">
+<Data ss:Type="Number">0.00</Data></Cell><Cell ss:Index="30"/></Row>
+<Row ss:Height="13.74">
+<Cell ss:Index="1" ss:MergeAcross="1" ss:StyleID="s8">
+<Data ss:Type="String">01/06/2020</Data></Cell><Cell ss:Index="3" ss:MergeAcross="4" ss:StyleID="s12">
+<Data ss:Type="String">SES PE              </Data></Cell><Cell ss:Index="8" ss:MergeAcross="5" ss:StyleID="s12">
+<Data ss:Type="String">VENDA DE SERVICOS                       </Data></Cell><Cell ss:Index="14" ss:MergeAcross="3" ss:StyleID="s12">
+<Data ss:Type="String">ENTRADA                                 </Data></Cell><Cell ss:Index="18" ss:MergeAcross="2" ss:StyleID="s11">
+<Data ss:Type="Number">2679</Data></Cell><Cell ss:Index="21" ss:StyleID="s9">
+<Data ss:Type="String">26416</Data></Cell><Cell ss:Index="22" ss:MergeAcross="4" ss:StyleID="s10">
+<Data ss:Type="Number">1021.25</Data></Cell><Cell ss:Index="27" ss:MergeAcross="2" ss:StyleID="s10">
+<Data ss:Type="Number">0.00</Data></Cell><Cell ss:Index="30"/></Row>
+<Row ss:Height="13.74">
+<Cell ss:Index="1" ss:MergeAcross="1" ss:StyleID="s8">
+<Data ss:Type="String">01/06/2020</Data></Cell><Cell ss:Index="3" ss:MergeAcross="4" ss:StyleID="s12">
+<Data ss:Type="String">SES PE              </Data></Cell><Cell ss:Index="8" ss:MergeAcross="5" ss:StyleID="s12">
+<Data ss:Type="String">VENDA DE SERVICOS                       </Data></Cell><Cell ss:Index="14" ss:MergeAcross="3" ss:StyleID="s12">
+<Data ss:Type="String">ENTRADA                                 </Data></Cell><Cell ss:Index="18" ss:MergeAcross="2" ss:StyleID="s11">
+<Data ss:Type="Number">2291</Data></Cell><Cell ss:Index="21" ss:StyleID="s9">
+<Data ss:Type="String">26412</Data></Cell><Cell ss:Index="22" ss:MergeAcross="4" ss:StyleID="s10">
+<Data ss:Type="Number">18680.33</Data></Cell><Cell ss:Index="27" ss:MergeAcross="2" ss:StyleID="s10">
+<Data ss:Type="Number">0.00</Data></Cell><Cell ss:Index="30"/></Row>
+<Row ss:Height="13.74">
+<Cell ss:Index="1" ss:MergeAcross="1" ss:StyleID="s8">
+<Data ss:Type="String">01/06/2020</Data></Cell><Cell ss:Index="3" ss:MergeAcross="4" ss:StyleID="s12">
+<Data ss:Type="String">SES PE              </Data></Cell><Cell ss:Index="8" ss:MergeAcross="5" ss:StyleID="s12">
+<Data ss:Type="String">VENDA DE SERVICOS                       </Data></Cell><Cell ss:Index="14" ss:MergeAcross="3" ss:StyleID="s12">
+<Data ss:Type="String">ENTRADA                                 </Data></Cell><Cell ss:Index="18" ss:MergeAcross="2" ss:StyleID="s11">
+<Data ss:Type="Number">2809</Data></Cell><Cell ss:Index="21" ss:StyleID="s9">
+<Data ss:Type="String">26430</Data></Cell><Cell ss:Index="22" ss:MergeAcross="4" ss:StyleID="s10">
+<Data ss:Type="Number">5353.04</Data></Cell><Cell ss:Index="27" ss:MergeAcross="2" ss:StyleID="s10">
+<Data ss:Type="Number">0.00</Data></Cell><Cell ss:Index="30"/></Row>
+<Row ss:Height="13.74">
+<Cell ss:Index="1" ss:MergeAcross="1" ss:StyleID="s8">
+<Data ss:Type="String">01/06/2020</Data></Cell><Cell ss:Index="3" ss:MergeAcross="4" ss:StyleID="s12">
+<Data ss:Type="String">SES PE              </Data></Cell><Cell ss:Index="8" ss:MergeAcross="5" ss:StyleID="s12">
+<Data ss:Type="String">VENDA DE SERVICOS                       </Data></Cell><Cell ss:Index="14" ss:MergeAcross="3" ss:StyleID="s12">
+<Data ss:Type="String">ENTRADA                                 </Data></Cell><Cell ss:Index="18" ss:MergeAcross="2" ss:StyleID="s11">
+<Data ss:Type="Number">2783</Data></Cell><Cell ss:Index="21" ss:StyleID="s9">
+<Data ss:Type="String">26425</Data></Cell><Cell ss:Index="22" ss:MergeAcross="4" ss:StyleID="s10">
+<Data ss:Type="Number">10833.74</Data></Cell><Cell ss:Index="27" ss:MergeAcross="2" ss:StyleID="s10">
+<Data ss:Type="Number">0.00</Data></Cell><Cell ss:Index="30"/></Row>
+<Row ss:Height="13.74">
+<Cell ss:Index="1" ss:MergeAcross="1" ss:StyleID="s8">
+<Data ss:Type="String">01/06/2020</Data></Cell><Cell ss:Index="3" ss:MergeAcross="4" ss:StyleID="s12">
+<Data ss:Type="String">SES PE              </Data></Cell><Cell ss:Index="8" ss:MergeAcross="5" ss:StyleID="s12">
+<Data ss:Type="String">VENDA DE SERVICOS                       </Data></Cell><Cell ss:Index="14" ss:MergeAcross="3" ss:StyleID="s12">
+<Data ss:Type="String">ENTRADA                                 </Data></Cell><Cell ss:Index="18" ss:MergeAcross="2" ss:StyleID="s11">
+<Data ss:Type="Number">2294</Data></Cell><Cell ss:Index="21" ss:StyleID="s9">
+<Data ss:Type="String">26414</Data></Cell><Cell ss:Index="22" ss:MergeAcross="4" ss:StyleID="s10">
+<Data ss:Type="Number">2127.60</Data></Cell><Cell ss:Index="27" ss:MergeAcross="2" ss:StyleID="s10">
+<Data ss:Type="Number">0.00</Data></Cell><Cell ss:Index="30"/></Row>
+<Row ss:Height="13.74">
+<Cell ss:Index="1" ss:MergeAcross="1" ss:StyleID="s8">
+<Data ss:Type="String">01/06/2020</Data></Cell><Cell ss:Index="3" ss:MergeAcross="4" ss:StyleID="s12">
+<Data ss:Type="String">SODEXO              </Data></Cell><Cell ss:Index="8" ss:MergeAcross="5" ss:StyleID="s12">
+<Data ss:Type="String">VALE REFEICAO / VALE ALIMENTACAO        </Data></Cell><Cell ss:Index="14" ss:MergeAcross="3" ss:StyleID="s12">
+<Data ss:Type="String">PAGAMENTO NOTAS FISCAIS                 </Data></Cell><Cell ss:Index="18" ss:MergeAcross="2" ss:StyleID="s11">
+<Data ss:Type="Number">315555</Data></Cell><Cell ss:Index="21" ss:StyleID="s9">
+<Data ss:Type="String">26754</Data></Cell><Cell ss:Index="22" ss:MergeAcross="4" ss:StyleID="s10">
+<Data ss:Type="Number">0.00</Data></Cell><Cell ss:Index="27" ss:MergeAcross="2" ss:StyleID="s10">
+<Data ss:Type="Number">-451.62</Data></Cell><Cell ss:Index="30"/></Row>
+<Row ss:Height="13.74">
+<Cell ss:Index="1" ss:MergeAcross="17" ss:MergeDown="1" ss:StyleID="s0">
+<Data ss:Type="String"></Data></Cell><Cell ss:Index="19" ss:MergeAcross="2" ss:StyleID="s15">
+<Data ss:Type="String">Totais:</Data></Cell><Cell ss:Index="22" ss:MergeAcross="4" ss:StyleID="s4">
+<Data ss:Type="Number">351431.95</Data></Cell><Cell ss:Index="27" ss:MergeAcross="2" ss:StyleID="s4">
+<Data ss:Type="Number">-351379.45</Data></Cell><Cell ss:Index="30"/></Row>
+<Row ss:Height="6.87">
+<Cell ss:Index="19" ss:MergeAcross="10" ss:StyleID="s0">
+<Data ss:Type="String"></Data></Cell><Cell ss:Index="30"/></Row>
+<Row ss:Height="13.74">
+<Cell ss:Index="1" ss:MergeAcross="15" ss:MergeDown="1" ss:StyleID="s0">
+<Data ss:Type="String"></Data></Cell><Cell ss:Index="17" ss:MergeAcross="5" ss:StyleID="s14">
+<Data ss:Type="String">Saldo Conciliado em 01/06/2020:</Data></Cell><Cell ss:Index="23" ss:MergeAcross="2" ss:MergeDown="1" ss:StyleID="s0">
+<Data ss:Type="String"></Data></Cell><Cell ss:Index="26" ss:MergeAcross="2" ss:StyleID="s13">
+<Data ss:Type="Number">52.50</Data></Cell><Cell ss:Index="29" ss:MergeDown="1" ss:StyleID="s0">
+<Data ss:Type="String"></Data></Cell><Cell ss:Index="30"/></Row>
+<Row ss:Height="6.87">
+<Cell ss:Index="17" ss:MergeAcross="5" ss:StyleID="s0">
+<Data ss:Type="String"></Data></Cell><Cell ss:Index="26" ss:MergeAcross="2" ss:StyleID="s0">
+<Data ss:Type="String"></Data></Cell><Cell ss:Index="30"/></Row>
+<Row ss:Height="0.73">
+<Cell ss:Index="1" ss:MergeAcross="28" ss:StyleID="s16">
+<Data ss:Type="String"></Data></Cell><Cell ss:Index="30"/></Row>
+<Row ss:Height="9.77">
+<Cell ss:Index="1" ss:MergeAcross="28" ss:MergeDown="1" ss:StyleID="s0">
+<Data ss:Type="String"></Data></Cell><Cell ss:Index="30"/></Row>
+<Row ss:Height="78.78">
+<Cell ss:Index="30"/></Row>
+</Table>
+<WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+<PageSetup>
+<Layout x:Orientation="Landscape"/>
+<PageMargins x:Bottom="0.20" x:Left="0.39" x:Right="0.39" x:Top="0.20"/>
+</PageSetup>
+</WorksheetOptions>
+<PageBreaks xmlns="urn:schemas-microsoft-com:office:excel">
+<RowBreaks>
+<RowBreak>
+<Row>40</Row>
+</RowBreak>
+</RowBreaks>
+</PageBreaks>
+</Worksheet>
+</Workbook>
